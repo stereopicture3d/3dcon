@@ -1,0 +1,37 @@
+{
+"media": [
+
+
+{ "url": "8001danzerostereo_404_full.jpg" },
+{ "url": "8002danzerostereo_410_full.jpg" },
+{ "url": "8003danzerostereo_417_full.jpg" },
+{ "url": "8004danzerostereo_423_full.jpg" },
+{ "url": "8005danzerostereo_429_full.jpg" },
+{ "url": "8006danzerostereo_436_full.jpg" },
+{ "url": "8007danzerostereo_443_full.jpg" },
+{ "url": "8008danzerostereo_450_full.jpg" },
+{ "url": "8009danzerostereo_457_full.jpg" },
+{ "url": "8010danzerostereo_464_full.jpg" },
+{ "url": "8011danzerostereo_471_full.jpg" },
+{ "url": "8012danzerostereo_478_full.jpg" },
+{ "url": "8013danzerostereo_485_full.jpg" },
+{ "url": "8014danzerostereo_492_full.jpg" },
+{ "url": "8015danzerostereo_499_full.jpg" },
+{ "url": "8016danzerostereo_506_full.jpg" },
+{ "url": "8017danzerostereo_512_full.jpg" },
+{ "url": "8018danzerostereo_519_full.jpg" },
+{ "url": "8019danzerostereo_525_full.jpg" },
+{ "url": "8020danzerostereo_532_full.jpg" },
+{ "url": "8021danzerostereo_538_full.jpg" },
+{ "url": "8022danzerostereo_545_full.jpg" },
+{ "url": "8023danzerostereo_551_full.jpg" },
+{ "url": "8024danzerostereo_558_full.jpg" },
+{ "url": "8025danzerostereo_565_full.jpg" },
+{ "url": "8026danzerostereo_571_full.jpg" }
+
+
+],
+"meta": {
+"url_base": "https://stereopicture3d.github.io/3dcon/2_3_mawhiney_html5_all_files/"
+}
+}
